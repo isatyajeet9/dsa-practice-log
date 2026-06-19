@@ -4,3 +4,4 @@
 | 2 | Two Sum | LeetCode | Easy | 20 Jun 2026 | - |
 | 3 | Valid Parentheses | LeetCode | Easy | 20 Jun 2026 | - |
 | 4 | Best Time to Buy and Sell Stock | LeetCode | Easy | 20 Jun 2026 | - |
+| 5 | Maximum Subarray | LeetCode | Medium | 20 Jun 2026 | - |
